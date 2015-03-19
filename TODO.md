@@ -1,0 +1,1 @@
+Apparently, `.rules` files should be installed by packages into `/lib/udev/rules.d` instead of `/etc/udev/rules.d`.
